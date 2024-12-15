@@ -9,15 +9,15 @@ xdg-desktop-portal-gtk                                 # xdg desktop portal usin
 # emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
-steam                                                  # gaming platform
-gamemode                                               # daemon and library for game optimisations
-mangohud                                               # system performance overlay
+#steam                                                  # gaming platform
+#gamemode                                               # daemon and library for game optimisations
+#mangohud                                               # system performance overlay
 # gamescope                                            # micro-compositor for gaming
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
-spotify                                                # proprietary music streaming service
-spicetify-cli                                          # cli to customize spotify client
+#spotify                                                # proprietary music streaming service
+#spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
 # neovim                                               # vim based text editor
