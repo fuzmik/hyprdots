@@ -1,0 +1,43 @@
+{
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "wMDtA6GZ378",
+      "url": "https://www.youtube.com/watch?v=wMDtA6GZ378",
+      "title": "Detroit Lions vs. San Francisco 49ers Game Highlights | NFL 2024 Season Week 17",
+      "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA...",
+      "duration": 984.0,
+      "channel_id": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+      "channel": "NFL",
+      "channel_url": "https://www.youtube.com/channel/UCDVYQ4Zhbm3S2dlz7P1GBDg",
+      "uploader": "NFL",
+      "uploader_id": "@NFL",
+      "uploader_url": "https://www.youtube.com/@NFL",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/wMDtA6GZ378/hqdefault.jpg?sqp=-oaymwEbCNIBEHZIVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtDf26bb_oVH7m0BxorWgnczZ9qA",
+          "height": 118,
+          "width": 210
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wMDtA6GZ378/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8Ld4CujhWPBkxkUaLB5srA1B4KA",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/wMDtA6GZ378/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxPbjwYIhJb3S6xHXQQKoETuhBXA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": 1735621200,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1886094,
+      "live_status": null,
+      "channel_is_verified": true,
+      "__x_forwarded_for_ip": null
+    }
+  ]
+}

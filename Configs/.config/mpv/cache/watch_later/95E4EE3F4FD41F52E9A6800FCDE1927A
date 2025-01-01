@@ -1,0 +1,2 @@
+start=0.000000
+af=@dynaudnorm:lavfi=graph=%32%dynaudnorm=g=5:f=250:r=0.9:p=0.5,lavfi=graph=%113%lowpass=c=LFE:f=120,volume=1.6,pan=stereo|FL=0.5*FC+0.707*FL+0.707*BL+0.5*LFE|FR=0.5*FC+0.707*FR+0.707*BR+0.5*LFE
